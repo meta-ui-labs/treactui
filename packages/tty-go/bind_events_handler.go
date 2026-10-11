@@ -5,8 +5,8 @@ import (
 
 	tea "charm.land/bubbletea/v2"
 
-	"github.com/meta-tui/treactui/packages/tty-go/bridge"
-	"github.com/meta-tui/treactui/packages/tty-go/session"
+	"github.com/meta-ui-labs/treactui/packages/tty-go/bridge"
+	"github.com/meta-ui-labs/treactui/packages/tty-go/session"
 )
 
 // Events is the event bus a host offers between the page and Go, for Bind and BindShared:

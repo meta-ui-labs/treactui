@@ -1,4 +1,4 @@
-module github.com/meta-tui/treactui/packages/tty-go
+module github.com/meta-ui-labs/treactui/packages/tty-go
 
 go 1.26.0
 

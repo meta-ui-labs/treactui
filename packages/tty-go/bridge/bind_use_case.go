@@ -7,7 +7,7 @@ import (
 
 	tea "charm.land/bubbletea/v2"
 
-	"github.com/meta-tui/treactui/packages/tty-go/session"
+	"github.com/meta-ui-labs/treactui/packages/tty-go/session"
 )
 
 // maxTracked bounds how many connections' message order is followed at once: the current

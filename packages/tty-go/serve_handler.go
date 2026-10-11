@@ -12,8 +12,8 @@ import (
 	tea "charm.land/bubbletea/v2"
 	"net/http"
 
-	"github.com/meta-tui/treactui/packages/tty-go/session"
-	"github.com/meta-tui/treactui/packages/tty-go/socket"
+	"github.com/meta-ui-labs/treactui/packages/tty-go/session"
+	"github.com/meta-ui-labs/treactui/packages/tty-go/socket"
 )
 
 // Options configures Handler.
