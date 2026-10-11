@@ -9,7 +9,7 @@ application.
 > example does not build against the current adapter until mvd moves to v2. It last built against `tty-go` 0.0.1.
 
 It is its own Go module, with `replace` directives for local checkouts:
-`github.com/meta-tui/treactui => ../..` and `youtube-downloader => ../../../mvd`
+`github.com/meta-ui-labs/treactui => ../..` and `youtube-downloader => ../../../mvd`
 (a sibling checkout of the mvd repository at `main`, which has `tui.NewAppModel` and
 `ScreenOutline` since mvd#53). It is not part of the root module or of CI.
 

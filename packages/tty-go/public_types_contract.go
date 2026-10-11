@@ -1,6 +1,6 @@
 package ttygo
 
-import "github.com/meta-tui/treactui/packages/tty-go/protocol"
+import "github.com/meta-ui-labs/treactui/packages/tty-go/protocol"
 
 // The types a model uses to talk to the page, re-exported so a program
 // imports one package.

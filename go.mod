@@ -1,11 +1,11 @@
-module github.com/meta-tui/treactui
+module github.com/meta-ui-labs/treactui
 
 go 1.26.0
 
 require (
 	charm.land/bubbletea/v2 v2.1.0
 	charm.land/lipgloss/v2 v2.0.6
-	github.com/meta-tui/treactui/packages/tty-go v0.0.0
+	github.com/meta-ui-labs/treactui/packages/tty-go v0.0.0
 )
 
 require (
@@ -27,4 +27,4 @@ require (
 	golang.org/x/sys v0.47.0 // indirect
 )
 
-replace github.com/meta-tui/treactui/packages/tty-go => ./packages/tty-go
+replace github.com/meta-ui-labs/treactui/packages/tty-go => ./packages/tty-go

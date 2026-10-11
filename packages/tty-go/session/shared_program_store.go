@@ -7,8 +7,8 @@ import (
 
 	tea "charm.land/bubbletea/v2"
 
-	"github.com/meta-tui/treactui/packages/tty-go/observer"
-	"github.com/meta-tui/treactui/packages/tty-go/protocol"
+	"github.com/meta-ui-labs/treactui/packages/tty-go/observer"
+	"github.com/meta-ui-labs/treactui/packages/tty-go/protocol"
 )
 
 // SharedProgram is one Bubble Tea program that any number of browsers watch

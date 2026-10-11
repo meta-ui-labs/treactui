@@ -5,7 +5,7 @@ import (
 
 	"github.com/coder/websocket"
 
-	"github.com/meta-tui/treactui/packages/tty-go/session"
+	"github.com/meta-ui-labs/treactui/packages/tty-go/session"
 )
 
 // SharedHandler upgrades each request to a WebSocket and attaches it to the one
